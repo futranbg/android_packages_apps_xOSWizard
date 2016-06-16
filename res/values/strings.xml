@@ -68,12 +68,12 @@
 
     <string name="emergency_call">Emergency call</string>
 
-    <string name="setup_services">Cyanogen features</string>
+    <string name="setup_services">xOS features</string>
     <string name="services_explanation" product="tablet">These services work for you to extend the capabilities of your tablet. Data will be used in accordance with xdaviet\'s <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
     <string name="services_explanation" product="default">These services work for you to extend the capabilities of your phone. Data will be used in accordance with xdaviet\'s <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
     <string name="services_privacy_policy">Privacy Policy</string>
     <string name="services_help_improve_cm">Help improve <xliff:g id="name" example="xOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve xOS">%1$s</xliff:g> by automatically sending diagnostic and usage data to Cyanogen. This information can’t be used to identify you and lends a hand to teams working on things like battery life, app performance, and new <xliff:g id="name" example="xOS">%2$s</xliff:g> features.</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve xOS">%1$s</xliff:g> by automatically sending diagnostic and usage data to xOS. This information can’t be used to identify you and lends a hand to teams working on things like battery life, app performance, and new <xliff:g id="name" example="xOS">%2$s</xliff:g> features.</string>
     <string name="services_apply_theme">Apply the <xliff:g id="name" example="xUI">%s</xliff:g> theme</string>
     <string name="services_apply_theme_label"><xliff:g id="name" example="Apply the xUI theme">%s</xliff:g> enabling a unique visual style for your icons, wallpaper and more.</string>
     <string name="services_os_nav_keys_label"><b>Use on screen navigation keys</b> instead of hardware keys.</string>

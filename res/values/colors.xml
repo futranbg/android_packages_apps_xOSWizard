@@ -22,13 +22,13 @@
     <color name="primary">@color/white</color>
     <color name="primary_dark">@color/white</color>
     <color name="accent">#009789</color>
-    <color name="primary_text">#8a000000</color>
+    <color name="primary_text">@color/black</color>
     <color name="secondary_text">#727272</color>
     <color name="button_bar_text_enabled">#ff1e1e1e</color>
     <color name="button_bar_text_disabled">#321e1e1e</color>
     <color name="divider">#40000000</color>
     <color name="header_bg">@color/white</color>
     <color name="header_condensed_bg">@color/white</color>
-    <color name="button_bar_background">#e4e7e8</color>
+    <color name="button_bar_background">#efefef</color>
     <color name="fingerprint_setup_text_color">#356bc4</color>
 </resources>
